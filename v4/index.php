@@ -41,22 +41,7 @@
         gtag('config', 'AW-11110630683');
     </script>
 
-    <script type="text/javascript" src="https://www.jerlnk.com/scripts/sdk/everflow.js"></script>
-
-    <script type="text/javascript">
-        EF.click({
-            offer_id: "1274",
-            affiliate_id: "224",
-            sub1: EF.urlParameter('sub1'),
-            sub2: EF.urlParameter('sub2'),
-            sub3: EF.urlParameter('sub3'),
-            sub4: EF.urlParameter('sub4'),
-            sub5: EF.urlParameter('sub5'),
-            uid: EF.urlParameter('uid'),
-            source_id: EF.urlParameter('source_id'),
-            transaction_id: EF.urlParameter('_ef_transaction_id'),
-        });
-
+    <script>
         function getCookie(name) {
             let value = `; ${document.cookie}`;
             let parts = value.split(`; ${name}=`);
