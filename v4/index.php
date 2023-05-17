@@ -683,17 +683,10 @@
                                     <span class="terms_txt">
                                         <label id="tcpa_label">
                                             <input type="hidden" id="leadid_tcpa_disclosure" />
-                                            By clicking Next, I agree to
-                                            <a href="terms.php" target="_new">Terms</a>,
-                                            <a href="privacy.php" target="_new">Privacy</a>,
-                                            and consent to
-                                            <a href="companylist.php" target="_blank">solar/home servicers</a>
-                                            to send marketing prerecorded messages and autodialed calls/texts
-                                            to my phone number above even if it's on any do not call list.
-                                            Consent is not a condition of purchase. You can opt-out at any
-                                            time (see
-                                            <a href="terms.php" target="_new" data-scroll-to="collection-of-information">Terms</a>).
-                                            Message/data rates may apply. </label>
+                                            We respect your privacy and want to make you aware of a few things. By submitting, you authorize EcomfyLead and up to
+                                            <a href="companylist.php" target="_blank">four solar companies</a>
+                                            to call you or SMS message the phone number provided, even if it is currently listed on any state, federal, or corporate 'Do Not Call' lists, and you understand that they may use automated dialing or prerecorded message to call you, and that your consent is not required to purchase products or services.
+                                        </label>
                                     </span>
                                     <div class="row">
                                         <!-- <div class="col colback col-last"><button type="button" class="btn btn-link btn-back just-text">Back</button></div> -->
@@ -727,18 +720,17 @@
     <footer>
         <div class="container">
             <div class="solar-footer-content">
-
                 <div class="row">
-                    <div class="footer-menu">
-                        <div class="form-group tcpa"> <label id="tcpa" class="pageid-tcpa"><input type="hidden" id="leadid_tcpa_disclosure"> By submitting your info, you authorize us and up to 4 of our <a href="https://poweredbysolar.energy/installer-list.php" target="_blank" rel="nofollow">Partner Solar Companies</a> to call you and send sms messages or text messages at your number. Your consent here is not based on a condition of purchase. </label> </div>
-                        <div id="footer" class="form-group">
-                            <p> Copyright&copy; 2023&nbsp;poweredbysolar.energy.&nbsp;All Rights Reserved &nbsp;<a href="https://poweredbysolar.energy/privacy-policy.php">Privacy policy</a> || <a href="https://poweredbysolar.energy/terms-conditions.php">Terms And Conditions</a> </p>
+                        <div class="footer-menu">
+                            <div class="form-group tcpa"> <label id="tcpa_label" class="pageid-tcpa"><input type="hidden" id="leadid_tcpa_disclosure"> By submitting your info, you authorize us and up to 4 of our <a href="companylist.php" target="_blank">Partner Solar Companies</a> to call you and send sms messages or text messages at your number. Your consent here is not based on a condition of purchase, agreeing to our <a href="terms.php" target="_new">Terms</a> and
+                            <a href="privacy.php" target="_new">Privacy</a> Policies. </label> 
                         </div>
-
+                            <div id="footer" class="form-group">
+                                <p> Copyright&copy; 2023&nbsp;poweredbysolar.energy.&nbsp;All Rights Reserved &nbsp;<a href="https://gogreenandsave.net/privacy-policy.php">Privacy policy</a> || <a href="https://gogreenandsave.net/terms-conditions.php">Terms And Conditions</a> </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-
         </div>
     </footer>
 
