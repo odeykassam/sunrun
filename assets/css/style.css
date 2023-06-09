@@ -1726,6 +1726,10 @@ address {
     margin-left: -15px
 }
 
+.footer-row{
+    justify-content: center;
+}
+
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0
