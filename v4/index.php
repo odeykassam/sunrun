@@ -723,7 +723,7 @@
                 <div class="row">
                     <div class="footer-menu">
                         <div id="footer" class="form-group">
-                            <p id="tcpa_label"> Copyright&copy; 2023&nbsp;poweredbysolar.energy.&nbsp;All Rights Reserved &nbsp;<a href="privacy.php" target="_new">Privacy policy</a> || <a href="terms.php" target="_new">Terms And Conditions</a> </p>
+                            <p id="tcpa_label"> Copyright&copy; 2023&nbsp;poweredbysolar.energy.&nbsp;All Rights Reserved &nbsp;<a href="privacy.php" target="_new">Privacy policy</a></p>
                         </div>
                     </div>
                 </div>
