@@ -720,7 +720,7 @@
     <footer>
         <div class="container">
             <div class="solar-footer-content">
-                <div class="row footer-row">
+                <div class="row" style="justify-content: center;">
                     <div class="footer-menu">
                         <div id="footer" class="form-group">
                             <p id="tcpa_label"> Copyright&copy; 2023&nbsp;poweredbysolar.energy.&nbsp;All Rights Reserved &nbsp;<a href="privacy.php" target="_new">Privacy policy</a></p>
