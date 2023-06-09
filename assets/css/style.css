@@ -1726,7 +1726,7 @@ address {
     margin-left: -15px
 }
 
-.footer-row{
+.row .footer-row{
     justify-content: center;
 }
 
